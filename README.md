@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png">
-  <h1> Alcool ou Gasolina : Android App </h1>
+  <h1> Álcool ou Gasolina : Android App </h1>
 </div>
 
 
